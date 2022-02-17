@@ -1,0 +1,15 @@
+C:\Users\tiago\OneDrive\Documentos\Carro\Carro\bin\Debug\net6.0\Carro.exe
+C:\Users\tiago\OneDrive\Documentos\Carro\Carro\bin\Debug\net6.0\Carro.deps.json
+C:\Users\tiago\OneDrive\Documentos\Carro\Carro\bin\Debug\net6.0\Carro.runtimeconfig.json
+C:\Users\tiago\OneDrive\Documentos\Carro\Carro\bin\Debug\net6.0\Carro.dll
+C:\Users\tiago\OneDrive\Documentos\Carro\Carro\bin\Debug\net6.0\ref\Carro.dll
+C:\Users\tiago\OneDrive\Documentos\Carro\Carro\bin\Debug\net6.0\Carro.pdb
+C:\Users\tiago\OneDrive\Documentos\Carro\Carro\obj\Debug\net6.0\Carro.csproj.AssemblyReference.cache
+C:\Users\tiago\OneDrive\Documentos\Carro\Carro\obj\Debug\net6.0\Carro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago\OneDrive\Documentos\Carro\Carro\obj\Debug\net6.0\Carro.AssemblyInfoInputs.cache
+C:\Users\tiago\OneDrive\Documentos\Carro\Carro\obj\Debug\net6.0\Carro.AssemblyInfo.cs
+C:\Users\tiago\OneDrive\Documentos\Carro\Carro\obj\Debug\net6.0\Carro.csproj.CoreCompileInputs.cache
+C:\Users\tiago\OneDrive\Documentos\Carro\Carro\obj\Debug\net6.0\Carro.dll
+C:\Users\tiago\OneDrive\Documentos\Carro\Carro\obj\Debug\net6.0\ref\Carro.dll
+C:\Users\tiago\OneDrive\Documentos\Carro\Carro\obj\Debug\net6.0\Carro.pdb
+C:\Users\tiago\OneDrive\Documentos\Carro\Carro\obj\Debug\net6.0\Carro.genruntimeconfig.cache
